@@ -1,0 +1,17 @@
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\bin\Debug\CountWordsTests.dll
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\bin\Debug\CountWordsTests.pdb
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\bin\Debug\CountWords.exe
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\bin\Debug\CountWords.pdb
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\bin\Debug\CountWords.exe.config
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\obj\Debug\CountWordsTests.csprojAssemblyReference.cache
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\obj\Debug\CountWordsTests.csproj.CoreCompileInputs.cache
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\obj\Debug\CountWordsTests.csproj.CopyComplete
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\obj\Debug\CountWordsTests.dll
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWordsTests\obj\Debug\CountWordsTests.pdb
