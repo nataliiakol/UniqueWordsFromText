@@ -1,0 +1,7 @@
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWords\bin\Debug\CountWords.exe.config
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWords\bin\Debug\CountWords.exe
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWords\bin\Debug\CountWords.pdb
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWords\obj\Debug\CountWords.csprojAssemblyReference.cache
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWords\obj\Debug\CountWords.csproj.CoreCompileInputs.cache
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWords\obj\Debug\CountWords.exe
+c:\users\nataliia\documents\visual studio 2017\Projects\CountWords\CountWords\obj\Debug\CountWords.pdb
